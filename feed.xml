@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias de Mi Sitio Web</title>
+    <link>https://srebollo-rgb.github.io/feria-viajes-FEED/</link>
+    <description>Últimas novedades publicadas</description>
+    <item>
+      <title>Nueva sección sobre novedades</title>
+      <link>https://srebollo-rgb.github.io/feria-viajes-FEED/sobrexporioja.html</link>
+      <description>Nueva sección dedicada a los precios de entradas.</description>
+      <pubDate>Tue, 04 Nov 2025 11:30:00</pubDate>
+    </item>
+    <item>
+      <title>Actualización en la página de expositores</title>
+      <link>https://srebollo-rgb.github.io/feria-viajes-FEED/expositores.html</link>
+      <description>La página de expositores tiene acceso para descargar el documento de inscripción.</description>
+      <pubDate>Tue, 04 Nov 2025 10:45:00</pubDate>
+    </item>
+  </channel>
